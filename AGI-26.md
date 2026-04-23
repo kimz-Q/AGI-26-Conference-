@@ -123,8 +123,8 @@ Structured 1:1 meetings with researchers, lab representatives, and investors ide
 
 ### 6 — Follow-Up & Reporting
 
-- Detailed report on the event outcome to be shared with the Strategic board
-- All captured contacts entered into CRM with track tags
+- Detailed report on the event outcome to be shared with the Strategic board.
+- All captured contacts entered into CRM with track tags.
 - Personalized outreach to priority contacts.
 
 ---
