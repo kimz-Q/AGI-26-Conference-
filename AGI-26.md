@@ -6,7 +6,7 @@
 
 ## Proposal Summary
 
-The Scientific Team and Marketing Team are jointly requesting approval to fund Qubic's participation in **AGI-26**, the world's oldest and most prestigious conference dedicated exclusively to Artificial General Intelligence.
+The Scientific, Marketing and Business Development teams are jointly requesting approval to fund Qubic's participation in **AGI-26**, the world's oldest and most prestigious conference dedicated exclusively to Artificial General Intelligence.
 
 This proposal covers a **Gold Sponsorship package**, a **15-minute public keynote**, a **dedicated technical workshop**, and a **coordinated pre- and post-event media campaign**.
 
@@ -174,4 +174,4 @@ Travel costs cover 3 attending team members (2 from Spain/Japan, 1 from Florida)
 
 ---
 
-*Submitted jointly by the Qubic Scientific Team and Marketing Team.*  
+*Submitted jointly by the Qubic Scientific Team,Marketing Team and Business Development.*  
