@@ -111,7 +111,7 @@ David Vivancos and Dr. Jose Sanchez will deliver a 15-minute keynote on Qubic's 
 
 ### 3 — Workshop
 
-A dedicated Qubic technical session for self-selected researchers and developers. Deep-dive format: live demo of the Qubic compute model, technical Q\&A on Neuraxon and Aigarth, and structured discussion on UPoW's role in AGI infrastructure. All attendees tracked for follow-up outreach and pipeline qualification.
+A dedicated Qubic technical session for self-selected researchers and developers. Deep-dive format: live demo of the Qubic compute model, technical Q&A on Neuraxon and Aigarth, and structured discussion on UPoW's role in AGI infrastructure. All attendees tracked for follow-up outreach and pipeline qualification.
 
 ### 4 — Media & Content
 
@@ -123,7 +123,7 @@ Structured 1:1 meetings with researchers, lab representatives, and investors ide
 
 ### 6 — Follow-Up & Reporting
 
-- Detialed report on the event outcome to be shared with the Stratgic board
+- Detailed report on the event outcome to be shared with the Strategic board
 - All captured contacts entered into CRM with track tags
 - Personalized outreach to priority contacts.
 
@@ -136,7 +136,7 @@ Structured 1:1 meetings with researchers, lab representatives, and investors ide
 | **Keynote** | 15-minute presentation delivered to 500+ AGI specialists |
 | **Workshop** | 20+ registered participants with clear understanding of Neuraxon and Aigarth |
 | **Research partnerships** | 5+ substantive conversations with researchers or labs as candidates for collaboration or co-authorship |
-| **Universties interoduction** | +3 interoduction dialuges with particpanting universities as potential candidates for futrue collabaration |
+| **Universities introduction** | 3+ dialogues with participating Universities as potential candidates for future collaboration |
 | **Developer pipeline** | 2+ development teams or researchers identified for Qubic incubation program |
 | **Media output** | Conference video interview \+ at least 1 additional external mention (podcast, newsletter, or outlet) |
 | **Content assets** | Post-event recap, social content package, and at least 1 technical article |
@@ -170,7 +170,7 @@ Structured 1:1 meetings with researchers, lab representatives, and investors ide
 | Contingency | $2,000 |
 | **Total** | **$34,150** |
 
-Travel costs cover 3 attending team members (2 from Spain/Japan, 1 from Florida). The fourth team member is local and within driving distance. Any funds remaining after the conference will be returned to the CCF.
+Travel costs cover 3 attending team members (2 from Spain/Japan, 1 from Florida). The remaining two team members are local and within driving distance. Any funds remaining after the conference will be returned to the CCF.
 
 ---
 
