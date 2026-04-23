@@ -10,7 +10,7 @@ The Scientific Team and Marketing Team are jointly requesting approval to fund Q
 
 This proposal covers a **Gold Sponsorship package**, a **15-minute public keynote**, a **dedicated technical workshop**, and a **coordinated pre- and post-event media campaign**.
 
-**Requesting: 51.64 Bln QUBIC @ $0.00000070**
+**Requesting: 48.8 Bln QUBIC @ $0.00000070**
 
 **CCF Wallet:**
 
@@ -19,13 +19,14 @@ JWURNBTXPDUKBCQAZUUIDBGZYZPDBXTQNDZMWJNOWCTRNPUQWBHBTFODZMEI
 | Option | Vote |
 | :---- | :---- |
 | Option 0 | No |
-| Option 1 | Yes — approve budget of 51.6 Bln QUBIC |
+| Option 1 | Yes — approve budget of 48.8 Bln QUBIC |
 
 ---
 
 ## Objective
 
 Establish Qubic — and specifically **Neuraxon** and **Aigarth** — as credible, research-grade AGI projects in the eyes of the global scientific and technical community. Convert that credibility into developer relationships, research partnerships, and long-term ecosystem growth.
+This is a relationship-building and opportunity-scoping exercise, not a deal-closing event. AGI-26 is a research forum. Our goal is to leave with qualified contacts, active dialogues, and a 90-day follow-up pipeline.
 
 ---
 
@@ -61,13 +62,40 @@ Qubic is building **Neuraxon** and **Aigarth** — genuine AGI initiatives power
 
 ## What We're Securing
 
-| Deliverable | Details |
-| :---- | :---- |
-| **Gold Sponsorship** | Exhibitor booth, venue and stage branding, logo placement, 5 conference passes, prominent presence across all 5 days |
-| **15-Minute Public Keynote** | Delivered by Qubic's scientific team to 500+ AGI specialists and investors |
-| **Dedicated Workshop Session** | In-depth technical session for self-selected researchers and developers, included with Gold tier |
-| **Pre- and Post-Event Media** | Video interview, press placement, coordinated social and content campaign |
-| **Investor & Advisory Access** | 3 Investor Cocktail invites \+ 2 Advisory Board Dinner invites included in Gold tier |
+The Gold Sponsorship package includes three pillars of value:
+
+### Branding & Venue Presence
+
+| Asset | Included |
+| --- | --- |
+| Logo on conference website | ✓ |
+| Photo wall placement | ✓ |
+| Venue branding | ✓ |
+| Stage branding | ✓ |
+| Seat branding | ✓ |
+| Chair cover | ✓ |
+| Tote bag branding | ✓ |
+
+### Content & Speaking
+
+| Asset | Included |
+| --- | --- |
+| 15-minute public keynote | ✓ |
+| Dedicated workshop session | Free upon request |
+| Pre-event promotion by AGI-26 channels | ✓ |
+| Post-event PR | ✓ |
+| Recorded video interview (ours to reuse) | ✓ |
+| Investor Day participation (July 30) | ✓ |
+
+### Networking & Access
+
+| Asset | Included |
+| --- | --- |
+| Conference passes | 5 |
+| Investor Cocktail invites | 3 |
+| Advisory Board Dinner invites | 2 |
+| Exhibitor booth / table | ✓ |
+| Attendee matchmaking tool access | ✓ |
 
 ---
 
@@ -93,6 +121,12 @@ Pre-event content campaign announcing Qubic's participation, targeting both cryp
 
 Structured 1:1 meetings with researchers, lab representatives, and investors identified in advance through Gold-tier matchmaking tools. All contacts and conversations captured in a structured follow-up pipeline for Ecosystem and BD teams.
 
+### 6 — Follow-Up & Reporting
+
+- Detialed report on the event outcome to be shared with the Stratgic board
+- All captured contacts entered into CRM with track tags
+- Personalized outreach to priority contacts.
+
 ---
 
 ## Success Metrics
@@ -102,7 +136,8 @@ Structured 1:1 meetings with researchers, lab representatives, and investors ide
 | **Keynote** | 15-minute presentation delivered to 500+ AGI specialists |
 | **Workshop** | 20+ registered participants with clear understanding of Neuraxon and Aigarth |
 | **Research partnerships** | 5+ substantive conversations with researchers or labs as candidates for collaboration or co-authorship |
-| **Developer pipeline** | 2+ development teams or researchers identified for Qubic incubation or contributor program |
+| **Universties interoduction** | +3 interoduction dialuges with particpanting universities as potential candidates for futrue collabaration |
+| **Developer pipeline** | 2+ development teams or researchers identified for Qubic incubation program |
 | **Media output** | Conference video interview \+ at least 1 additional external mention (podcast, newsletter, or outlet) |
 | **Content assets** | Post-event recap, social content package, and at least 1 technical article |
 
@@ -117,7 +152,7 @@ Structured 1:1 meetings with researchers, lab representatives, and investors ide
 | **David Vivancos** | Qubic Scientific Team — Keynote Speaker |
 | **Dr. Jose Sanchez** | Qubic Scientific Team — Keynote Speaker |
 | **Stephanie Nickolich** | Head of Marketing & Growth |
-| **Community Member (Local)** | On-site support |
+| **2xCommunity Member (Local)** | On-site support |
 
 ---
 
@@ -131,10 +166,9 @@ Structured 1:1 meetings with researchers, lab representatives, and investors ide
 | Operational expenses (merch, materials, shipping) | $2,000 |
 | Flights (2 from Spain/Japan \~$1,600 each \+ 1 from Florida \~$500) | $3,700 |
 | Hotel / Airbnb (3 rooms, 4–5 nights) | $3,500 |
-| Per diem ($100/person/day × 4 people × 5 days) | $2,000 |
-| Video production (10 hours of professional footage) | $2,500 |
+| Per diem ($100/person/day × 5 people × 5 days) | $2,500 |
 | Contingency | $2,000 |
-| **Total** | **$36,150** |
+| **Total** | **$34,150** |
 
 Travel costs cover 3 attending team members (2 from Spain/Japan, 1 from Florida). The fourth team member is local and within driving distance. Any funds remaining after the conference will be returned to the CCF.
 
