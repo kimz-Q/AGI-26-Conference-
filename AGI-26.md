@@ -10,7 +10,7 @@ The Scientific Team and Marketing Team are jointly requesting approval to fund Q
 
 This proposal covers a **Gold Sponsorship package**, a **15-minute public keynote**, a **dedicated technical workshop**, and a **coordinated pre- and post-event media campaign**.
 
-**Requesting: 51.6 Bln QUBIC @ $0.00000070**
+**Requesting: 51.64 Bln QUBIC @ $0.00000070**
 
 **CCF Wallet:**
 
